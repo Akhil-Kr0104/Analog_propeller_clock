@@ -3,7 +3,7 @@
 An analog propeller clock is a fascinating and innovative device that creates the illusion of a traditional analog clock using modern technology. It utilizes the persistence of vision (POV) phenomenon, where rapid movement of light points(LED) tricks the human eye into perceiving a continuous image.
 
 
-![Clock Image(3)](clock_img(3).jpg)
+![Clock Image(3)](Clock_img(3).jpg)
 
 # Key Features:
 
